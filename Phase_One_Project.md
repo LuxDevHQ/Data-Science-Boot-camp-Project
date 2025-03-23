@@ -1,16 +1,19 @@
-### **End-to-End Data Science Project: Global Debt Analysis & Forecasting Using XGBoost**  
-
-#### **Project Title:**  
-**"Understanding & Predicting International Debt Trends Using XGBoost"**  
+### **Understanding & Predicting International Debt Trends Using XGBoost.**  
 
 ---
 
 ### **Project Overview**  
 Countries take on debt not just for necessities but to support economic development. Infrastructure spending, for instance, is a costly yet crucial investment for a country’s progress. The World Bank provides debt financing to developing countries to facilitate such initiatives.  
 
-In this project, you will analyze **international debt data** collected by the **World Bank**. The dataset includes information on the **total debt (in USD) owed by developing countries** across multiple debt categories from **1970 to 2015**.  
+This project will focus on **orecasting international debt trends** using **World Bank data**. The dataset includes information on **the total debt (in USD) owed by developing countries** across multiple debt categories from **1970 to 2015**.  
 
-Your goal is to **explore this dataset using SQL in PostgreSQL, extract meaningful insights, and apply XGBoost regression to forecast future debt levels**.  
+Your goal as a **data scientist** is to:  
+1. **Explore** the dataset and identify global debt patterns.  
+2. **Analyze** debt accumulation across different countries and debt indicators.  
+3. **Predict future debt levels** using **XGBoost regression**.  
+4. **Visualize** insights using dashboards and communicate findings effective
+
+
 
 ---
 
