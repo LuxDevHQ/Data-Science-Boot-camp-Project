@@ -1,11 +1,11 @@
-### **📌 End-to-End Data Science Project: Global Debt Analysis & Forecasting Using XGBoost**  
+### **End-to-End Data Science Project: Global Debt Analysis & Forecasting Using XGBoost**  
 
-#### **🔍 Project Title:**  
+#### **Project Title:**  
 **"Understanding & Predicting International Debt Trends Using XGBoost"**  
 
 ---
 
-### **📌 Project Overview**  
+### **Project Overview**  
 Countries take on debt not just for necessities but to support economic development. Infrastructure spending, for instance, is a costly yet crucial investment for a country’s progress. The World Bank provides debt financing to developing countries to facilitate such initiatives.  
 
 In this project, you will analyze **international debt data** collected by the **World Bank**. The dataset includes information on the **total debt (in USD) owed by developing countries** across multiple debt categories from **1970 to 2015**.  
@@ -14,7 +14,7 @@ Your goal is to **explore this dataset using SQL in PostgreSQL, extract meaningf
 
 ---
 
-### **📊 Key Steps in the Project**
+### **Key Steps in the Project**
 #### **Step 1: Data Collection & Cleaning**  
 - Load the dataset from **PostgreSQL** using **Python & psycopg2-binary or SQLAlchemy**.  
 - Handle missing values, duplicates, and format inconsistencies.  
@@ -67,7 +67,7 @@ Your goal is to **explore this dataset using SQL in PostgreSQL, extract meaningf
 
 ---
 
-### **📌 Final Deliverables**
+### **Final Deliverables**
 ✅ **A well-documented Jupyter Notebook** with:  
    - SQL queries for data extraction.  
    - EDA & visualizations.  
@@ -81,7 +81,7 @@ Your goal is to **explore this dataset using SQL in PostgreSQL, extract meaningf
 
 ---
 
-### **📌 Tools & Technologies**
+### **Tools & Technologies**
 - **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **SQL:** PostgreSQL (to query & analyze data)  
 - **Database Connection:** psycopg2-binary, SQLAlchemy  
@@ -90,7 +90,7 @@ Your goal is to **explore this dataset using SQL in PostgreSQL, extract meaningf
 
 ---
 
-### **📢 Business Impact**
+### **Business Impact**
 - Helps **governments & financial institutions** track debt trends.  
 - Provides **early warning signs** for economic instability.  
 - Enables **data-driven policymaking** to control debt accumulation.  
