@@ -99,5 +99,3 @@ Your goal as a **data scientist** is to:
 - Enables **data-driven policymaking** to control debt accumulation.  
 
 ---
-
-This is a **complete, real-world project** that covers **data extraction, analysis, prediction, and visualization**. Let me know if you need a **starter notebook with SQL queries & EDA**!  
